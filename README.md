@@ -33,8 +33,7 @@ Let's connect and build something mediocre!
 *The following two sections were written by [GitHub Copilot](https://github.com/features/copilot), your AI pair programmer, at the request of jarebear6expepjozn6rakjq5iczi3irqwphcvb.*
 
 This README was created in collaboration with GitHub Copilot.  
-Copilot helped draft, style, and publish this profile.  
-If you want a README like this, or want to supercharge your coding, check out GitHub Copilot!
+Copilot helped draft, style, and publish this profile.
 
 _Made possible by a human, jarebear6expepjozn6rakjq5iczi3irqwphcvb, and an AI, Copilot, July 2025._
 
