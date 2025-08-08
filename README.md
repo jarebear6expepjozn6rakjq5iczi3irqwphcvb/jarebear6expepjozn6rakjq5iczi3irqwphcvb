@@ -13,8 +13,7 @@ I'm passionate about coding and enjoy working at the intersection of Python, PHP
 - Languages I Love: Python, PHP, Go, Vanilla JS
 - Interests: Backend systems, automation, scalable web services
 
-## Stats & Activity
-- 21+ followers | 50+ following
+## Activity
 - [repositories](https://github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb?tab=repositories) and [gists](https://gist.github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb).
 
 
