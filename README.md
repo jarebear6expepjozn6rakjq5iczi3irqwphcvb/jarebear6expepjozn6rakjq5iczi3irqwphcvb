@@ -15,10 +15,8 @@ I'm passionate about coding and enjoy working at the intersection of Python, PHP
 
 ## Stats & Activity
 - 21+ followers | 50+ following
-- Always tinkering and sharing new ideas—check out my [repositories](https://github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb?tab=repositories) and [gists](https://gist.github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb).
+- [repositories](https://github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb?tab=repositories) and [gists](https://gist.github.com/jarebear6expepjozn6rakjq5iczi3irqwphcvb).
 
-## Fun Fact
-My handle is a unique blend—if you can pronounce it, you get extra credit.
 
 ---
 
