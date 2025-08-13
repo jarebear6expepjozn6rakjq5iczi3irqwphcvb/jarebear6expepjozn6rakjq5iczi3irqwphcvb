@@ -1,10 +1,8 @@
-# Hi, I'm jarebear6expepjozn6rakjq5iczi3irqwphcvbswgkahd6b6twnxxid
+# jarebear6expepjozn6rakjq5iczi3irqwphcvbswgkahd6b6twnxxid
 
-Welcome to my GitHub.  
-I'm passionate about coding and enjoy working at the intersection of Python, PHP, and Go.
+Working a lot with Python, PHP, and Go.
 
 - Currently building at [@standardinternet](https://github.com/standardinternet)
-- Python | PHP | Go
 - 75+ public repositories | 30+ public gists
 - Open to new opportunities and collaborations
 - GitHub member since 2011
@@ -18,8 +16,6 @@ I'm passionate about coding and enjoy working at the intersection of Python, PHP
 
 
 ---
-
-> “Python + PHP +- GO” — that's my code signature.
 
 Let's connect and build something mediocre!
 
