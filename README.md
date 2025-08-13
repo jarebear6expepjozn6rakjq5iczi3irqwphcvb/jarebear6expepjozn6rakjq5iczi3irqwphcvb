@@ -1,7 +1,5 @@
 # jarebear6expepjozn6rakjq5iczi3irqwphcvbswgkahd6b6twnxxid
 
-Working a lot with Python, PHP, and Go.
-
 - Currently building at [@standardinternet](https://github.com/standardinternet)
 - 75+ public repositories | 30+ public gists
 - Open to new opportunities and collaborations
